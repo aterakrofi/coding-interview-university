@@ -68,8 +68,8 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [x] [What is it?](#what-is-it)
 - [x] [Why use it?](#why-use-it)
 - [x] [How to use it](#how-to-use-it)
-- [x]  [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- []1. Item 1
+- [x] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+-      [] Item 1
 - []1. Item 2
 - []1. Item 3
    1. Item 3a
